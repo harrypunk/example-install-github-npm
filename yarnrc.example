@@ -1,0 +1,8 @@
+yarnPath: "....../.yarn/releases/yarn-berry.js"
+npmRegistries:
+  //npm.pkg.github.com:
+    npmAlwaysAuth: true
+    npmAuthToken: "ffff-fff"
+npmScopes:
+  harrypunk:
+    npmRegistryServer: "https://npm.pkg.github.com"
