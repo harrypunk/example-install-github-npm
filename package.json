@@ -1,14 +1,15 @@
 {
   "name": "gh-package-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "example of how to use npm scopes with github packages",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "devDependencies": {},
   "dependencies": {
-    "@harrypunk/rxjs-fs": "^1.0.5"
+    "@harrypunk/rxjs-fs": "^1.0.5",
+    "@flowaccount/intro.js": "2.9.7",
+    "@meevilabs/react-native-elements": "0.0.7"
   }
 }
