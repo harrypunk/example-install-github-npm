@@ -1,8 +1,9 @@
 ### How to install public package from Github npm registry  
 #### npm  
-npm can install package anonymously  
+npm and token
 ```.npmrc```
 ```
+//npm.pkg.github.com/:_authToken=ffff-999999
 registry=https://npm.pkg.github.com/
 ```
 ```
