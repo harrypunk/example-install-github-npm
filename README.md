@@ -1,10 +1,10 @@
 ### How to install public package from Github npm registry  
 #### npm  
-npm and token
+npm needs scope config
 ```.npmrc```
 ```
 //npm.pkg.github.com/:_authToken=ffff-999999
-registry=https://npm.pkg.github.com/
+@harrypunk:registry=https://npm.pkg.github.com/
 ```
 ```
 npm install
